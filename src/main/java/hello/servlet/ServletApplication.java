@@ -10,7 +10,6 @@ public class ServletApplication {
 
 	public static void main(String[] args) {
 
-		System.out.println("test1");
 		SpringApplication.run(ServletApplication.class, args);
 	}
 
